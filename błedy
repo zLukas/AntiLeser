@@ -1,0 +1,13 @@
++co już jest:
+ +
+ +- działajace guziki startu i ustawien parametrów(czas, przeglądarka itp)
+ +-timery (2) jeden od procesów drógi od odlicznaia(sprawdzone)
+ +- edycja ustawień
+ +
+ +do zrobiaenia:
+ +
+ +- program nie widzi stringa w stringu ( funkcjia timer1_tick)
+ +i nie odpala timera2
+ +-funkcja zukająca strony
+ +-blokowanie ustawień aby nie można ich było zmienac po wystartowaniu programu
+ +-guzika start wymaga 2X wcisniecia przy pierwszym właczeniu aby aplikacja ruszyla
