@@ -1,11 +1,16 @@
-+co już jest:
++Co już jest:
  +
  +- działajace guziki startu i ustawien parametrów(czas, przeglądarka itp)
- +-timery (2) jeden od procesów drógi od odlicznaia(sprawdzone)
+ +- timery (2) jeden od procesów drógi od odlicznaia(sprawdzone)
  +- edycja ustawień
+ +- blokada ustawien działa 
+ + tooltip
+ + wyświetlanie procesów
+ + lista ze stronami blokowanymi
  +
- +do zrobiaenia:
+ +Do zrobiaenia:
  +
- testy
- ilość powiadomień
+ + testy
+ + ilość powiadomień już działa ale wszystkie message boxy są ustawione jedno za drugim (przy jednym uruchomieniu timera)
+ 
 
