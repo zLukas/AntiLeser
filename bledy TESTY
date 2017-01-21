@@ -1,5 +1,0 @@
-testy, błedy:
-
--program nie działał po wcisnieciu stop i start( naprawione chyba)
--wpisywanie czasu event "enterpress" został zastapiony 'textchanged' przez co ustawia sie odrazu po wpisaniu wartosci
-wyrzuca bledy jak skasuje sie srednik albo 2 zera miedzy srednikuami lub na koncu, ale mozna potem dalej wisywac)
