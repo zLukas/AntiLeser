@@ -1,0 +1,117 @@
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\Do_nauki_kolo.exe.config
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.Form1.resources
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\Do_nauki_kolo.exe
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\Do_nauki_kolo.pdb
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.exe
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.pdb
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\NDde.dll
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\nunit.framework.dll
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\bin\Debug\NDde.xml
+D:\folder LG\VISUAL STUDIO PROJEKTY\Do_nauki_kolo\Do_nauki_kolo\obj\Debug\Do_nauki_kolo.instrukcja_Frm.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\NDde.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\nunit.framework.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\bin\Debug\NDde.xml
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.instrukcja_Frm.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol2\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\NDde.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\nunit.framework.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\bin\Debug\NDde.xml
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.instrukcja_Frm.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol3\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\NDde.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\nunit.framework.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\bin\Debug\NDde.xml
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.instrukcja_Frm.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol4\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.instrukcja_Frm.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\Do_nauki_kolo.exe
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\NDde.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\nunit.framework.dll
+C:\Users\Kacper\Documents\projekt koło\Antileser.vol5\bin\Debug\NDde.xml
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.MymessageBox_Frm.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\NDde.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\nunit.framework.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol6\bin\Debug\NDde.xml
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\NDde.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\nunit.framework.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\bin\Debug\NDde.xml
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.MymessageBox_Frm.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\Do_nauki_kolo.exe.config
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.Form1.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.MymessageBox_Frm.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.Properties.Resources.resources
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\Do_nauki_kolo.exe
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\Do_nauki_kolo.pdb
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\NDde.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\nunit.framework.dll
+C:\Users\LG\Desktop\projekt koło\Antileser.vol7.1\bin\Debug\NDde.xml
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\Antileser Project.exe.config
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\Antileser Project.exe
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\Antileser Project.pdb
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\NDde.dll
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\nunit.framework.dll
+D:\folder LG\smartGit\AntiLeser\Antileser\bin\Debug\NDde.xml
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Do_nauki_kolo.csprojResolveAssemblyReference.cache
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Do_nauki_kolo.MainWindow.resources
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Do_nauki_kolo.MymessageBox_Frm.resources
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\antileserProject.Properties.Resources.resources
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Do_nauki_kolo.csproj.GenerateResource.Cache
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Antileser Project.exe
+D:\folder LG\smartGit\AntiLeser\Antileser\obj\Debug\Antileser Project.pdb
